@@ -19,7 +19,7 @@ We are part of the [Bijvoet Center for Biomolecular Research](https://www.uu.nl/
 - [haddock-restraints](https://github.com/haddocking/haddock-restraints): Generate restraints to be used in HADDOCK
 - [haddock-runner](https://github.com/haddocking/haddock-runner): Run large scale HADDOCK simulations using multiple input molecules in different scenarios
 - [haddock-tools](https://github.com/haddocking/haddock-tools): Set of useful utility scripts developed by the BonvinLab group members
-- [haddock2mmcif](https://github.com/haddocking/haddock2mmcif): Encode information from a HADDOCK run to a cif file to be deposited in PDB-Dev
+- [haddock-mmcif](https://github.com/haddocking/haddock-mmcif): Encode information from a HADDOCK run to a cif file to be deposited in PDB-Dev
 
 ## Contact
 
