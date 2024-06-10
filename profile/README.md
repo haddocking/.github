@@ -1,6 +1,6 @@
 # Welcome to the BonvinLab GitHub page
 
-![bonvinlab-banner](banner.png)
+![bonvinlab-banner](./banner.png)
 
 The BonvinLab is a Computational Structural Biology group that focuses on dissecting, understanding and predicting biomolecular interactions at the molecular level. Our research is focused on the development of integrative computational methods for the study of biomolecular interactions, with a particular emphasis on the structural characterization of protein-protein and protein-ligand complexes.
 
