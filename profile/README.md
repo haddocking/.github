@@ -13,6 +13,7 @@ We are part of the [Bijvoet Center for Biomolecular Research](https://www.uu.nl/
 - [prodigy](https://github.com/haddocking/prodigy): Predict the binding affinity of protein-protein complexes from structural data
 - [arctic3d](https://github.com/haddocking/arctic3d): Automatic Retrieval and ClusTering of Interfaces in Complexes from 3D structural information
 - [proabc-2](https://github.com/haddocking/proABC-2): Deep learning framework to predict antibody paratope residues
+- [disvis](https://github.com/haddocking/disvis): Visualisation of conformational space restriction by distance restraints
 
 ## Useful utilities
 
