@@ -8,7 +8,7 @@ We are part of the [Bijvoet Center for Biomolecular Research](https://www.uu.nl/
 
 ## Featured research software
 
-- [haddock v3](https://github.com/haddocking/haddock3): The  **H**igh **A**mbiguity **D**riven biomolecular **DOCK**ing is our flagship software, it is an integrative platform for modelling biomolecular complexes. It is one of the most popular software for protein-protein and protein-ligand docking.
+- [haddock3](https://github.com/haddocking/haddock3): The  **H**igh **A**mbiguity **D**riven biomolecular **DOCK**ing is our flagship software, it is an integrative platform for modelling biomolecular complexes. It is one of the most popular software for protein-protein and protein-ligand docking.
 - [pdb-tools](https://github.com/haddocking/pdb-tools): A dependency-free cross-platform swiss army knife for PDB files.
 - [prodigy](https://github.com/haddocking/prodigy): Predict the binding affinity of protein-protein complexes from structural data
 - [arctic3d](https://github.com/haddocking/arctic3d): Automatic Retrieval and ClusTering of Interfaces in Complexes from 3D structural information
