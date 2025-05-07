@@ -4,7 +4,7 @@
 
 The BonvinLab is a Computational Structural Biology group that focuses on dissecting, understanding and predicting biomolecular interactions at the molecular level. Our research is focused on the development of integrative computational methods for the study of biomolecular interactions, with a particular emphasis on the structural characterization of protein-protein and protein-ligand complexes.
 
-We are part of the [Bijvoet Center for Biomolecular Research](https://www.uu.nl/en/research/bijvoet-centre-for-biomolecular-research) at [Utrecht University](https://www.uu.nl/),  affiliated with the [Netherlands eScience Center](https://www.esciencecenter.nl/) and one of the core applications of the [BioExcel Center of Excellence for Computational Biomolecular Research](https://bioexcel.eu/) under [EuroHPC](https://eurohpc-ju.europa.eu/index_en).
+We are part of the [Bijvoet Center for Biomolecular Research](https://www.uu.nl/en/research/bijvoet-centre-for-biomolecular-research) at [Utrecht University](https://www.uu.nl/),  affiliated with the [Netherlands eScience Center](https://www.esciencecenter.nl/) and one of the core applications of the [BioExcel Center of Excellence for Computational Biomolecular Research](https://bioexcel.eu/) and in the EU-India [GANANA](https://ganana.eu) collaborative project under [EuroHPC](https://eurohpc-ju.europa.eu/index_en).
 
 ## Featured research software
 
