@@ -21,6 +21,7 @@ We are part of the [Bijvoet Center for Biomolecular Research](https://www.uu.nl/
 - [haddock-runner](https://github.com/haddocking/haddock-runner): Run large scale HADDOCK simulations using multiple input molecules in different scenarios
 - [haddock-tools](https://github.com/haddocking/haddock-tools): Set of useful utility scripts developed by the BonvinLab group members
 - [haddock-mmcif](https://github.com/haddocking/haddock-mmcif): Encode information from a HADDOCK run to a cif file to be deposited in PDB-Dev
+- [smiles2pdb](https://github.com/haddocking/smiles2pdb): Convert SMILES strings into PDB files
 
 ## Contact
 
