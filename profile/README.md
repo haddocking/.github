@@ -14,6 +14,7 @@ We are part of the [Bijvoet Center for Biomolecular Research](https://www.uu.nl/
 - [arctic3d](https://github.com/haddocking/arctic3d): Automatic Retrieval and ClusTering of Interfaces in Complexes from 3D structural information
 - [proabc-2](https://github.com/haddocking/proABC-2): Deep learning framework to predict antibody paratope residues
 - [disvis](https://github.com/haddocking/disvis): Visualisation of conformational space restriction by distance restraints
+- [powerfit](https://github.com/haddocking/powerfit): Fast and sensitive rigid body fitting into cryo-EM maps
 
 ## Useful utilities
 
